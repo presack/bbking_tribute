@@ -1,0 +1,107 @@
+{
+  "title": {
+    "text": {
+      "headline": "The Life and Legacy of B.B. King",
+      "text": "A timeline of B.B. King's journey from humble beginnings to becoming the King of the Blues."
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1925", "month": "9", "day": "16" },
+      "text": {
+        "headline": "Birth of B.B. King",
+        "text": "Riley B. King is born on a plantation near Itta Bena, Mississippi. He grows up surrounded by gospel music, which influences his later blues style."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/B.B._King_Museum_%28Birthplace_Marker%29.jpg",
+        "caption": "B.B. King's birthplace marker in Mississippi."
+      }
+    },
+    {
+      "start_date": { "year": "1941" },
+      "text": {
+        "headline": "Discovers the Blues",
+        "text": "King listens to blues music on the radio for the first time, discovering artists like T-Bone Walker and Lonnie Johnson."
+      }
+    },
+    {
+      "start_date": { "year": "1948" },
+      "text": {
+        "headline": "Moves to Memphis and Gets His First Radio Gig",
+        "text": "King performs on Sonny Boy Williamson's radio show on WDIA, earning him a regular spot and exposure to a wider audience."
+      }
+    },
+    {
+      "start_date": { "year": "1951" },
+      "text": {
+        "headline": "First Major Hit: 'Three O’Clock Blues'",
+        "text": "King records 'Three O’Clock Blues,' which becomes a No. 1 hit on the R&B charts, launching him into national fame."
+      }
+    },
+    {
+      "start_date": { "year": "1964" },
+      "text": {
+        "headline": "Releases 'Live at the Regal'",
+        "text": "King records 'Live at the Regal,' one of the most acclaimed live blues albums of all time, capturing his electrifying stage presence."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Live_at_the_Regal.jpg",
+        "caption": "Cover art for 'Live at the Regal'."
+      }
+    },
+    {
+      "start_date": { "year": "1969" },
+      "text": {
+        "headline": "Opens for The Rolling Stones",
+        "text": "King tours with The Rolling Stones, introducing his blues sound to a new generation of rock fans."
+      }
+    },
+    {
+      "start_date": { "year": "1970" },
+      "text": {
+        "headline": "'The Thrill Is Gone' Becomes a Global Hit",
+        "text": "King records 'The Thrill Is Gone,' a Grammy-winning track that becomes his signature song."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Thrill_Is_Gone_cover.jpg",
+        "caption": "Cover art for 'The Thrill Is Gone'."
+      }
+    },
+    {
+      "start_date": { "year": "1987" },
+      "text": {
+        "headline": "Inducted into the Rock & Roll Hall of Fame",
+        "text": "King is recognized as one of the greatest blues musicians of all time and earns his place in the Rock & Roll Hall of Fame."
+      }
+    },
+    {
+      "start_date": { "year": "2000" },
+      "text": {
+        "headline": "Collaboration with Eric Clapton: 'Riding with the King'",
+        "text": "King collaborates with Eric Clapton on the Grammy-winning album 'Riding with the King,' bringing his blues sound to a new generation."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Riding_with_the_King.jpg",
+        "caption": "Cover of 'Riding with the King' album with Eric Clapton."
+      }
+    },
+    {
+      "start_date": { "year": "2014" },
+      "text": {
+        "headline": "Retires from Touring",
+        "text": "At 88 years old, King announces his retirement from touring due to health issues."
+      }
+    },
+    {
+      "start_date": { "year": "2015", "month": "5", "day": "14" },
+      "text": {
+        "headline": "Passing of a Legend",
+        "text": "B.B. King passes away at age 89 in Las Vegas, Nevada. His funeral in Indianola, Mississippi, draws fans and musicians from around the world."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/B.B._King_2010s.jpg",
+        "caption": "B.B. King performing in his later years."
+      }
+    }
+  ]
+}
