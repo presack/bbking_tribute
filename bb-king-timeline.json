@@ -25,6 +25,17 @@
       }
     },
     {
+      "start_date": { "year": "1951" },
+      "text": {
+        "headline": "Records First Hit, 3 o'Clock Blues",
+        "text": "King records 3 o'Clock Blues, which would become his first hit and a live staple throughout his career."
+      },
+      "media": {
+        "url": "https://www.youtube.com/watch?v=nPeTtg3fTB8",
+        "caption": "3 o'Clock Blues"
+      }
+    },
+    {
       "start_date": { "year": "1964" },
       "text": {
         "headline": "Releases 'Live at the Regal'",
