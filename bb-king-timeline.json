@@ -66,6 +66,28 @@
       }
     },
     {
+      "start_date": { "year": "1974", "month": "9", "day": "22" },
+      "text": {
+        "headline": "B.B. King Performs at Zaire 74 Ahead of the 'Rumble in the Jungle'.",
+        "text": "In September 1974 in Zaire, B.B. King played one of the most powerful shows of his career. A festival held in Kinshasa ahead of Muhammad Ali and George Foreman's legendary Rumble in the Jungle, the event represented a cultural homecoming for black artists including King and James Brown, celebrating the deep connection between African American music and its African roots."
+      },
+      "media": {
+        "url": "https://www.youtube.com/watch?v=UOnzDKvn7YI",
+        "caption": "Playing to an electrified audience which included Muhamma Ali himself, King delivered a fiery set, with 'Why I Sing the Blues' taking on profound meaning in this powerful celebration of black culture and resilience."
+      }
+    },
+    {
+      "start_date": { "year": "1985", "month": "9", "day": "22" },
+      "text": {
+        "headline": "BB Thrills a Massive Rock Audience at Live Aid",
+        "text": "Now 60 years old and widely revered as a dominant musical force, King rocks 80,000 at Live Aid in Champaign, IL."
+      },
+      "media": {
+        "url": "https://www.youtube.com/watch?v=P27tTNP7SFc",
+        "caption": "BB restrung his own guitar during his vocal performance after a rousing guitar intro!"
+      }
+    },
+    {
       "start_date": { "year": "1988" },
       "text": {
         "headline": "Records 'When Love Comes to Town' with U2, Reaching New Audiences",
